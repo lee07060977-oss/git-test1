@@ -4,7 +4,7 @@
  * ========================================================= */
 const PROFILE = {
   name: "Jake Hwang",
-  nameKo: "황호진", // TODO: 실제 한글 이름으로 수정
+  nameKo: "이현지", // TODO: 실제 한글 이름으로 수정
   title: "Full-Stack Developer",
   // 히어로 영역에서 타이핑 효과로 순환되는 문구
   roles: [
