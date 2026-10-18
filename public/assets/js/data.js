@@ -17,7 +17,7 @@ const PROFILE = {
     "화면부터 서버까지 직접 만들며 배우는 풀스택 개발자입니다. " +
     "사용자가 실제로 쓰는 기능을 끝까지 완성하는 것을 가장 중요하게 생각합니다.",
   location: "Seoul, Korea",
-  email: "hojinh@gmail.com",
+  email: "lee07060977@gmail.com",
   phone: "", // TODO: 공개하고 싶으면 입력 (예: "010-0000-0000"), 비우면 표시되지 않음
   resumeUrl: "", // TODO: 이력서 PDF 경로 (예: "assets/resume.pdf"), 비우면 버튼 숨김
   siteUrl: "https://my-app-one-snowy.vercel.app/",
@@ -25,7 +25,7 @@ const PROFILE = {
 
   links: [
     { label: "GitHub", url: "https://github.com/hojin-hwang", icon: "github" },   // TODO
-    { label: "Email", url: "mailto:hojinh@gmail.com", icon: "mail" },
+    { label: "Email", url: "mailto:lee07060977@gmail.com", icon: "mail" },
     { label: "Website", url: "https://my-app-one-snowy.vercel.app/", icon: "link" },
     { label: "Blog", url: "", icon: "blog" },                          // TODO (비우면 숨김)
     { label: "LinkedIn", url: "", icon: "linkedin" },                  // TODO (비우면 숨김)
